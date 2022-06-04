@@ -1,0 +1,9 @@
+[12-Jan-2022 07:17:21 UTC] PHP Fatal error:  Call to a member function setQuery() on null in /home/litemed1/shopping.litemediaweb.com.ng/sidebar.php on line 6
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 72
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 75
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 58
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 65
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 72
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 75
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 58
+[01-Feb-2022 18:04:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/litemed1/shopping.litemediaweb.com.ng/include/database.php on line 65
